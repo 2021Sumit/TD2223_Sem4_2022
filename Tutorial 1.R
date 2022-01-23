@@ -1,6 +1,6 @@
 #install packages for this tutorial
-install.pacages("tidyverse")
-install.pacages("openintro")
+install.packages("tidyverse")
+install.packages("openintro")
 
 #load both
 library(tidyverse)
